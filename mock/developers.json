@@ -1,0 +1,8 @@
+[
+    { "_id": "67rdca3eeb7f6fgeed471818", "name": "Valve", "img": "https://avatars.cloudflare.steamstatic.com/5f4b7a6439548f5513fc72968dae2217309e3d54_full.jpg" },
+    { "_id": "67rdca3eeb7f6fgeed471820", "name": "Crytek", "img": "https://avatars.cloudflare.steamstatic.com/18032c2c9b73452d733e095e1bc9cbd0cd04f2ee_full.jpg" },
+    { "_id": "67rdca3eeb7f6fgeed471814", "name": "Larian Studios", "img": "https://avatars.cloudflare.steamstatic.com/ba71798107fdd46eccc571ae9157a424c8d1cbb6_full.jpg" },
+    { "_id": "67rdca3eeb7f6fgeed471822", "name": "Paradox Development Studio", "img": "https://avatars.cloudflare.steamstatic.com/c92aac345471644c08eb7de166e3278fad4d746c_full.jpg"},
+    { "_id": "67rdca3eeb7f6fgeed471824", "name": "IO Interactive", "img": "https://avatars.cloudflare.steamstatic.com/0d8075d97ced9c0560e779818650bfb3dc3a23cf_full.jpg" },
+    { "_id": "67rdca3eeb7f6fgeed471829", "name": "Crate Entertainment", "img": "https://avatars.cloudflare.steamstatic.com/b088e2bd6ed7854d48c1b5beb0b9735bd37dee8a_full.jpg" }
+]

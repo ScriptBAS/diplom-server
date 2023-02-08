@@ -1,0 +1,32 @@
+[
+    {
+      "_id": "67rdca3eeb7f6fgeed471198",
+      "name": "Шутер",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg"
+    },
+    {
+      "_id": "67rdca3eeb7f6fgeed471100",
+      "name": "Стратегия",
+      "img": "hhttps://cdn.cloudflare.steamstatic.com/steam/apps/435150/header.jpg"
+    },
+    {
+      "_id": "67rdca3eeb7f6fgeed4711012",
+      "name": "RPG",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg"
+    },
+    {
+      "_id": "67rdca3eeb7f6fgeed471101",
+      "name": "Симулятор",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/header.jpg"
+    },
+    {
+      "_id": "67rdca3eeb7f6fgeed471102",
+      "name": "Гонки",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/635260/header_russian.jpg?t=1656514798"
+    },
+    {
+      "_id": "67rdca3eeb7f6fgeed471103",
+      "name": "Карточные",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/646570/header.jpg?t=1666988685"
+    }
+  ]
