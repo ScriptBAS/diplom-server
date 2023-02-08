@@ -1,4 +1,4 @@
 {
     "port": 8080,
-    "mongoUri": "mongodb+srv://diplomDB:1478951Qaz@cluster0.ledbpw2.mongodb.net/app?retryWrites=true&w=majority"
+    "mongoUri": "mongodb+srv://diplomDB:<password>@cluster0.ledbpw2.mongodb.net/app?retryWrites=true&w=majority"
 }
