@@ -17,12 +17,11 @@ router
             });
         }
     })
-    // .post(auth, async(req, res) => {
-    .post(async(req, res) => {
+    .post(auth, async(req, res) => {
         try {
             const newGame = await Game.create({
                 ...req.body,
-                // userId: req.user._id
+                userId: req.user._id
             });
             res.status(201).send(newGame);
         } catch (error) {
